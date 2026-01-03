@@ -1,7 +1,7 @@
 # Projeto Social - Plataforma de Doações
 
 <div align="center">
-  <img src="docs/images/home-page.png" alt="Página de Doação" width="800"/>
+  <img src="https://raw.githubusercontent.com/Kauanrodrigues01/Kauanrodrigues01/refs/heads/main/images/projetos/toylink-projeto-social/landing-page.png" alt="Página de Doação" width="800"/>
 </div>
 
 <br>
@@ -24,7 +24,7 @@
 O **Projeto Social** é uma plataforma desenvolvida para facilitar doações através de pagamentos PIX. Com interface simples e intuitiva, permite que qualquer pessoa possa fazer doações de forma rápida e segura, com confirmação automática via webhook do Mercado Pago.
 
 <div align="center">
-  <img src="docs/images/payment-page.png" alt="Página de Pagamento" width="800"/>
+  <img src="https://raw.githubusercontent.com/Kauanrodrigues01/Kauanrodrigues01/refs/heads/main/images/projetos/toylink-projeto-social/sistema-doacoes.png" alt="Página de Pagamento" width="800"/>
 </div>
 
 
